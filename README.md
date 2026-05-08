@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Talekh
 
-<!--
-**TalehPhysic/TalehPhysic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics student exploring programming, AI and game development.
 
-Here are some ideas to get you started:
+## Interests
+- Theoretical and computational physics
+- AI systems and agents
+- Game development (Godot / prototypes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Building small experimental projects
+- Learning system design and backend basics
+
+## Projects
+- AI agent experiments (local search / embeddings)
+- Game prototype: samurai-themed open world
+
+## Goals
+- Become strong in both physics and software engineering
+- Build real working systems, not just tutorials
