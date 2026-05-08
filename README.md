@@ -1,20 +1,25 @@
-# Hi, I'm Talekh
+# Hi, I'm Taleh
 
-Physics student exploring programming, AI and game development.
+Physics student focused on programming, AI systems, and computational thinking.
 
-## Interests
-- Theoretical and computational physics
-- AI systems and agents
-- Game development (Godot / prototypes)
+## What I do
+- Computational and theoretical physics
+- AI agents and search-based systems
+- Game development (Godot prototypes)
 
-## Current focus
-- Building small experimental projects
-- Learning system design and backend basics
+## Current work
+- Building small AI experiments (embeddings, search, simple reasoning systems)
+- Developing a samurai-themed game prototype
+- Learning backend development and system design fundamentals
 
 ## Projects
-- AI agent experiments (local search / embeddings)
-- Game prototype: samurai-themed open world
+- AI experiments: local search + embedding-based retrieval (WIP)
+- Game prototype: stealth/action system (Godot, WIP)
 
 ## Goals
-- Become strong in both physics and software engineering
+- Strengthen software engineering alongside physics
 - Build real working systems, not just tutorials
+- Move from experiments to deployable projects
+
+## Tools
+- Python, Godot, Git, basic backend tools
